@@ -1,0 +1,29 @@
+@font-face {
+font-family: 'Dejavu Serif';
+font-style: normal;
+src:  url('../fonts/DejaVuSerif.ttf') format('truetype');
+};
+html {
+  font-size: 62.5%;
+}
+
+body {
+ background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ font-size: 1.8em;
+ line-height: 1.875;
+ font-family: Dejavu Serif;
+ background-color: #3b728e;
+font-weight: 400;
+color: #555;
+}
+.jumbotron
+{
+	background-color: white;
+}
+	

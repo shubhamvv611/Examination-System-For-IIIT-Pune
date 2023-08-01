@@ -1,0 +1,59 @@
+@font-face {
+font-family: 'Dejavu Serif';
+font-style: normal;
+
+src:  url('../fonts/DejaVuSerif.ttf') format('truetype');
+}
+
+#navbar-inverse {
+    background-color:white;
+    box-shadow: 1px 3px 35px #888888;
+    border-color: rgba(249, 245, 245, 0.04);
+    height:100px;
+  }
+  .img-responsive
+  {
+  	height:60px;
+  	width:165px;
+  	margin:10px;
+  }
+  #body {
+  font-weight: 400;
+   font-size: 1.5em;
+ line-height: 1.875;
+ font-family: Dejavu Serif;
+
+color: #555;
+}
+
+.UserTime
+{
+  font-family: Dejavu Serif;
+}
+.panel_back
+{
+color:rgb(247, 247, 247) ; 
+padding: 5px; 
+font-size: 20px;
+text-align:center;
+background-color:rgb(89, 89, 89);
+border-radius: 3px;
+border-bottom-radius:0px;
+
+}
+.panel_back_border
+{
+border:1px solid rgb(89, 89, 89);
+border-radius: 10px;
+background-color: rgb(234, 234, 234);
+}
+.well
+{
+  font-size: 20px;
+  color:white;
+  text-align: center;
+  font-family: Dejavu Serif;
+  font-variant: bold;
+  background-color:rgb(89, 89, 89);
+
+}

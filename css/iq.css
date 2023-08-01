@@ -1,0 +1,33 @@
+@font-face {
+font-family: 'Dejavu Serif';
+font-style: normal;
+
+src:  url('../fonts/DejaVuSerif.ttf') format('truetype');
+}
+
+#navbar-inverse {
+    background-color:white;
+    box-shadow: 1px 3px 35px #888888;
+    border-color: rgba(249, 245, 245, 0.04);
+    height:100px;
+  }
+  .img-responsive
+  {
+  	height:60px;
+  	width:165px;
+  	margin:10px;
+  }
+  #body {
+  font-weight: 400;
+   font-size: 1.5em;
+ line-height: 1.875;
+ font-family: Dejavu Serif;
+
+color: #555;
+}
+
+.UserTime
+{
+  font-family: Dejavu Serif;
+
+}

@@ -1,0 +1,66 @@
+@font-face {
+font-family: 'Changa One';
+font-style: normal;
+
+src:  url('../fonts/ChangaOne-Regular.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Corben-Regular.ttf';
+font-style: normal;
+src:  url('../fonts/Corben-Regular.ttf.ttf') format('truetype');
+}
+body {
+    background: url('../images/MainBanner1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.heading1
+{
+	font-family: 'Changa One', cursive;
+	 font-size:60;
+	 color:white;
+	
+}
+
+hr.style18 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width:3px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width: 0 0 2px 0; 
+  border-radius: 50px; 
+}
+.btn-default:hover
+{
+  background-color: rgb(255, 51, 133);
+  color:white;
+  font-weight: bolder;
+  font-variant: inherit;
+  border: 0 solid rgb(255, 51, 133);
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#footer
+{
+  color: white;
+  font-family: 'Corben', cursive;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
