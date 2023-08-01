@@ -1,5 +1,5 @@
 # Examination-System-For-IIIT-Pune
-This is Single Handed developed  Examination Portal Developed With Front End Technologies Like HTML5,CSS3,Bootstrap5 And Backend Technologies like PHP ,JS with MYsql Relational Database.
+This is Single Handed developed  Examination Portal Developed With Front End Technologies Like HTML5,CSS3,Bootstrap5,Material Light And Backend Technologies like PHP ,JS with MYsql Relational Database.
 There are various new functionalities are available like Students Can Resgister with Mobile Number and Log in With OTP Received On Mobile.
 Afer Successful Registration Of Student
 They Can Start Exam For any Subject.
